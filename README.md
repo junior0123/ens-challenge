@@ -116,7 +116,7 @@ You can also add additional tests in the `/features/scenarios` directory to exte
      ```
 
 
-# Test Suite for Ensolvers QA Challenge
+# Test Suite for QA Challenge
 
 ## Test Case Specific Markers:
 
