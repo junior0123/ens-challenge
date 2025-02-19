@@ -1,5 +1,5 @@
 
-# Ensolvers QA Challenge 🔍
+# QA Challenge 🔍
 
 ## Introduction
 
